@@ -615,23 +615,20 @@ nav a {
     }
 
     @media (max-width: 633px) {
-        .dovednosti>div {
-            grid-template-columns: 1fr ;
-            grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
     
-        }
 
         .zkusenosti {
             height: 700px;
         }
 
         .velkacast {
-            height: 1960px;
+            height: 1200px;
         }
 
-        .dovednosti>div div:last-child {
-            margin-bottom: 30px;
+        .dovednosti>div div {
+            width: 120px;
         }
+
     }
 
     @media (max-width: 551px) { 
