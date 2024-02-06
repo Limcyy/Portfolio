@@ -566,6 +566,17 @@ nav a {
     }
 
     @media (max-width: 725px) {
+        
+
+        .hero {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .udaje div {
+            margin-bottom: 10px;
+        }
+        
         .udaje {
             display: flex;
             flex-direction: column;
@@ -635,6 +646,12 @@ nav a {
             width: 120px;
         }
 
+    }
+
+    @media (max-width: 725px) {
+        .hero p:last-child {
+            font-size: 15px;
+        }
     }
 
     @media (max-width: 551px) { 
