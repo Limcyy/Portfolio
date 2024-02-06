@@ -480,6 +480,12 @@ nav a {
     }
 
     @media (max-width: 890px) {
+        
+        .zkusenosti { 
+            padding-left: 30px;
+            padding-right: 45px;
+        }
+        
         .velkacast {
             
             gap: 15px;
@@ -609,7 +615,7 @@ nav a {
 
     @media (max-width: 700px) {
         .zkusenosti {
-            height: 625px;
+            height: 600px;
         }
 
     }
@@ -618,7 +624,7 @@ nav a {
     
 
         .zkusenosti {
-            height: 700px;
+            height: 650px;
         }
 
         .velkacast {
@@ -633,7 +639,7 @@ nav a {
 
     @media (max-width: 551px) { 
         .zkusenosti {
-            height: 800px;
+            height: 700px;
         }
 
         .castdruha {
@@ -665,6 +671,8 @@ nav a {
     }
 
     @media (max-width: 520px) { 
+        
+        
         main {
             padding-left: 30px;
             padding-right: 30px;
@@ -691,7 +699,7 @@ nav a {
 
     @media (max-width: 400px) { 
         .zkusenosti {
-            height: 900px;
+            height: 750px;
         }
     }
 
