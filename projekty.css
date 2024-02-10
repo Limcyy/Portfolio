@@ -505,8 +505,8 @@ nav a {
         gap: 20px;
         margin-bottom: 20px;
         display: grid;
-        grid-template-columns: auto;
-        grid-template-rows: auto auto;
+        grid-template-columns: auto auto;
+        grid-template-rows: auto;
     }
 
     .vytvory>div:nth-child(2) img:nth-child(3) {
@@ -526,7 +526,17 @@ nav a {
     }
 
 
+    .vytvory div:nth-child(3) video:nth-child(2) {
+        border-radius: 26px;
+        width: 320px;
+        height: 170px;
+    }
 
+    .vytvory div:nth-child(3) video:nth-child(1) {
+        border-radius: 26px;
+        width: 220px;
+        height: 170px;
+    }
 
     
 
@@ -649,4 +659,17 @@ nav a {
         }
 
 
-
+        @media (max-width: 700px) { 
+            .vytvory div:nth-child(3) video:nth-child(2) {
+                border-radius: 26px;
+                width: 210px;
+                height: 130px;
+            }
+        
+            .vytvory div:nth-child(3) video:nth-child(1) {
+                border-radius: 26px;
+                width: 180px;
+                height: 130px;
+            }
+        
+            }
