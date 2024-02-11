@@ -703,3 +703,14 @@ nav a {
     }
 
     }
+
+    @media (min-width: 1360px) {
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        main {
+            max-width: 1500px;
+        }
+    }
