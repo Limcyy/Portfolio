@@ -53,6 +53,11 @@ nav a {
     color: #845e95;
 }
 
+.blender a {
+    text-decoration: none;
+    color: #845e95;
+}
+
 .development {
     overflow: hidden;
     margin-bottom: 20px;

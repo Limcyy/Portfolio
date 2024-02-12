@@ -423,6 +423,11 @@ nav a {
     gap: 20px;
 }
 
+.zkusenosti a {
+    text-decoration: none;
+    color: #8c08c9;
+}
+
 
 
 .socials img {
