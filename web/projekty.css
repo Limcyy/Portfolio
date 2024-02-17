@@ -231,7 +231,7 @@ nav a {
     grid-template-rows: 1fr;
 }
 
-.vytvory div:nth-child(3) video:nth-child(2) {
+.vytvory div:nth-child(3) img:nth-child(2) {
     border-radius: 26px;
     width: 400px;
     height: 250px;
@@ -241,7 +241,7 @@ nav a {
     border-radius: 26px;
 }
 
-.vytvory div:nth-child(3) video:nth-child(1) {
+.vytvory div:nth-child(3) img:nth-child(1) {
     border-radius: 26px;
     width: 300px;
     height: 250px;
@@ -331,13 +331,13 @@ nav a {
         height: 230px;
     }
 
-    .vytvory div:nth-child(3) video:nth-child(2) {
+    .vytvory div:nth-child(3) img:nth-child(2) {
         border-radius: 26px;
         width: 350px;
         height: 200px;
     }
 
-    .vytvory div:nth-child(3) video:nth-child(1) {
+    .vytvory div:nth-child(3) img:nth-child(1) {
         border-radius: 26px;
         width: 250px;
         height: 200px;
@@ -427,13 +427,13 @@ nav a {
         height: 210px;
     }
 
-    .vytvory div:nth-child(3) video:nth-child(2) {
+    .vytvory div:nth-child(3) img:nth-child(2) {
         border-radius: 26px;
         width: 330px;
         height: 180px;
     }
 
-    .vytvory div:nth-child(3) video:nth-child(1) {
+    .vytvory div:nth-child(3) img:nth-child(1) {
         border-radius: 26px;
         width: 230px;
         height: 180px;
@@ -544,13 +544,13 @@ nav a {
     }
 
 
-    .vytvory div:nth-child(3) video:nth-child(2) {
+    .vytvory div:nth-child(3) img:nth-child(2) {
         border-radius: 26px;
         width: 320px;
         height: 170px;
     }
 
-    .vytvory div:nth-child(3) video:nth-child(1) {
+    .vytvory div:nth-child(3) img:nth-child(1) {
         border-radius: 26px;
         width: 220px;
         height: 170px;
@@ -680,13 +680,13 @@ nav a {
 
 
 @media (max-width: 700px) {
-    .vytvory div:nth-child(3) video:nth-child(2) {
+    .vytvory div:nth-child(3) img:nth-child(2) {
         border-radius: 26px;
         width: 210px;
         height: 130px;
     }
 
-    .vytvory div:nth-child(3) video:nth-child(1) {
+    .vytvory div:nth-child(3) img:nth-child(1) {
         border-radius: 26px;
         width: 180px;
         height: 130px;
@@ -695,13 +695,13 @@ nav a {
 }
 
 @media (max-width: 700px) {
-    .vytvory div:nth-child(3) video:nth-child(2) {
+    .vytvory div:nth-child(3) img:nth-child(2) {
         border-radius: 26px;
         width: 180px;
         height: 100px;
     }
 
-    .vytvory div:nth-child(3) video:nth-child(1) {
+    .vytvory div:nth-child(3) img:nth-child(1) {
         border-radius: 26px;
         width: 150px;
         height: 100px;
